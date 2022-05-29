@@ -1,0 +1,55 @@
+body{
+    background-image: url(https://wallpapercave.com/wp/wp3497482.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#inp{
+    margin-left:300px ;
+    
+    
+}
+ button{
+    background-color: rgb(122, 122, 241);
+    color: white;
+    height: 50px;
+    width: 180px;
+     
+}
+input{
+    height: 40px;
+     width: 400px;
+}
+p{
+    color:white;
+    font-size: 20px;
+    font-weight: 600;
+}
+#main{
+    display: flex;
+    width:80%;
+    height:500px;
+     margin-left: 5%;       
+     
+}
+
+#constainer{
+    width: 50%;
+    color: black;
+    text-align: center;
+}
+iframe{
+    display: inline-block;
+}
+#logo{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 800;
+
+}
+#right{
+    width: 50%;
+}
+h1{
+    color: whitesmoke;
+}
